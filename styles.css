@@ -1,0 +1,60 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: orange;
+
+}
+
+h2{
+ 	color: black;
+
+ }
+
+container{
+	display: flex;
+}
+
+.top{
+	background-color: blue;
+	display: flex;
+	height: 100px;
+}
+
+.mid{
+	background-color: red;
+	display: flex;
+	height: 800px;
+}
+
+.bot{
+ background-color: yellow;
+ display: flex;
+ height: 200px;
+}
+
+.example{
+	display: flex;
+	justify-content: space-between;
+	background-color: white;
+}
+
+.intro{
+	display: flex;
+	justify-content: center;
+	width: 200px;
+	height: 90px;
+	margin: 5px;
+	margin-bottom: 5px;
+}
+
+.sidebar{
+	display: flex;
+	justify-content: center;
+	margin: 5px;
+	width: 115px;
+}
+
