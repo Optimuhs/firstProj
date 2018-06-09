@@ -14,6 +14,7 @@ h2{
 
  }
 
+<<<<<<< HEAD
 a:link,
 a:visited{
 	color: red;
@@ -25,6 +26,8 @@ a:hover{
 	color:black;
 }
 
+=======
+>>>>>>> b2177e5983106a90030db5eaeb79a5e5ca651a47
 container{
 	display: flex;
 }
@@ -38,8 +41,11 @@ container{
 .mid{
 	background-color: red;
 	display: flex;
+<<<<<<< HEAD
 	justify-content: space-between;
 
+=======
+>>>>>>> b2177e5983106a90030db5eaeb79a5e5ca651a47
 	height: 800px;
 }
 
@@ -67,6 +73,7 @@ container{
 .sidebar{
 	display: flex;
 	justify-content: center;
+<<<<<<< HEAD
 	margin: 15px;
 	width: 2000px;
 	height: 40px;
@@ -124,3 +131,9 @@ container{
 	position: relative;
 	cursor: pointer;
 }
+=======
+	margin: 5px;
+	width: 115px;
+}
+
+>>>>>>> b2177e5983106a90030db5eaeb79a5e5ca651a47
